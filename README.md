@@ -3,6 +3,9 @@ Programa Creado el Java - Gerardo Rangel, Orson Mestanza.
 Este programa permite editar en el encabezado fasta o multifasta de las secuencias descargadas del NCBI.
 Reemplaza los espacios vacios por "_" y ademas filtra las secuencias en base a una cadena de interes*/
 
+
+
+
 import java.io.*;
 public class Secuencias{
     public static void main(String args[]) {
